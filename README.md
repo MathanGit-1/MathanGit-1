@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mathan!
 
-🚀 Full-stack Developer turned AI/ML Engineer  
+🚀 Full-Stack Developer | AI/ML Engineer | Bridging Intelligence with Scalable Systems
 🎯 Focused on building real-world enterprise AI systems  
 💡 Passionate about GenAI, NLP, Deep Learning, and .NET-based integrations
 
