@@ -8,10 +8,14 @@
 
 ### 🧰 Tech Stack
 
-#### 🧠 AI / ML / GenAI
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow)
-![FAISS](https://img.shields.io/badge/FAISS-3178C6?logo=python)
-![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?logo=google)
+#### 🧠 AI / ML / GenAI  
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0A192F?logo=scikit-learn&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-8E44AD?logo=spacy&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6F61?logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-3178C6?logo=python&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini%20AI-4285F4?logo=google&logoColor=white)
 
 #### 💻 Backend
 ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?logo=dotnet)
