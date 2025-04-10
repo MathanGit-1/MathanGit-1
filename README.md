@@ -30,8 +30,7 @@
 ## 📫 Contact Me
 
 📧 Email: mathankumar137@outlook.com  
-💼 LinkedIn: *[Add your LinkedIn link here]*  
-🌐 Portfolio: *[Optional if you have one]*
+💼 LinkedIn: www.linkedin.com/in/mathankumar-r-9bb5a118a 
 
 ---
 
