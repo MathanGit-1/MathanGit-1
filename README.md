@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Mathan!
 
-<!--
-**MathanGit-1/MathanGit-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-stack Developer turned AI/ML Engineer  
+🎯 Focused on building real-world enterprise AI systems  
+💡 Passionate about GenAI, NLP, Deep Learning, and .NET-based integrations
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⭐ Featured Project
+
+### 🛍️ [AICommerce](https://github.com/MathanGit-1/AICommerce) – Enterprise-Level AI-Powered E-Commerce Platform
+
+<img src="https://raw.githubusercontent.com/MathanGit-1/AICommerce/main/assets/ui-screenshot.png" width="700"/>
+
+✅ Full-stack app with React + .NET + FastAPI  
+✅ Integrated 6 AI/ML models: Recommender, Sentiment, Forecasting, Chatbot, Pricing, Fraud Detection  
+✅ Microservice structure with real datasets + Azure-ready deployment
+
+👉 **[Check it out →](https://github.com/MathanGit-1/AICommerce)**
+
+---
+
+## 📌 Other Projects
+
+- 🤖 [Smart Chatbot](https://github.com/MathanGit-1/chatbot) (Rule-based + FAISS + Gemini fallback)
+- 🕵️‍♂️ [Fake Review Detection](https://github.com/MathanGit-1/fake-review-detection) using Deep Learning
+
+---
+
+## 📫 Contact Me
+
+📧 Email: mathankumar137@outlook.com  
+💼 LinkedIn: *[Add your LinkedIn link here]*  
+🌐 Portfolio: *[Optional if you have one]*
+
+---
+
+⭐ Star my projects if they help you or inspire you!
