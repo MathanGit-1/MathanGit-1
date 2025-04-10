@@ -34,7 +34,8 @@
 
 ### 🛍️ [AICommerce](https://github.com/MathanGit-1/AICommerce) – Enterprise-Level AI-Powered E-Commerce Platform
 
-<img src="https://raw.githubusercontent.com/MathanGit-1/AICommerce/main/assets/ui-screenshot.png" width="700"/>
+<img src="https://raw.githubusercontent.com/MathanGit-1/AICommerce/main/assets/product_recommendations.png" width="700"/>
+<img src="https://raw.githubusercontent.com/MathanGit-1/AICommerce/main/assets/Customer_feedback_insights.png" width="700"/>
 
 ✅ Full-stack app with React + .NET + FastAPI  
 ✅ Integrated 6 AI/ML models: Recommender, Sentiment, Forecasting, Chatbot, Pricing, Fraud Detection  
