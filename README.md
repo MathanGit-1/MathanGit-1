@@ -6,6 +6,30 @@
 
 ---
 
+### 🧰 Tech Stack
+
+#### 🧠 AI / ML / GenAI
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow)
+![FAISS](https://img.shields.io/badge/FAISS-3178C6?logo=python)
+![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?logo=google)
+
+#### 💻 Backend
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?logo=dotnet)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi)
+
+#### 🌐 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?logo=react)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular)
+
+#### 💾 Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver)
+
+#### ☁️ Cloud & DevOps
+![Cloud](https://img.shields.io/badge/Cloud-Enabled-0A66C2?logo=cloudflare)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
+
 ## ⭐ Featured Project
 
 ### 🛍️ [AICommerce](https://github.com/MathanGit-1/AICommerce) – Enterprise-Level AI-Powered E-Commerce Platform
